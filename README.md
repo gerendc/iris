@@ -9,4 +9,4 @@ This project is applying logistic regression machine learning algorithm on [Iris
 - [Machine Learning Mastery](https://machinelearningmastery.com/) 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/gerendc/iris/blob/master/LICENSE)
